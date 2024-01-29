@@ -1,5 +1,5 @@
 <!-- the script is where the js code goes -->
-<script>
+<script setup>
 import { ref } from "vue" // you need this to use ref()
 
 
